@@ -1,5 +1,4 @@
 const blogDB = require('../models/blogDB');
-// const blogDB2 = require('../models/blogDB');
 
 exports.createBlog = async(req, res) => {
     try{
